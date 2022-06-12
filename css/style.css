@@ -1,0 +1,26 @@
+
+.wraper {
+    display: flex;
+}
+.login {
+    margin-left: 200px;
+    padding: 50px;
+    background-color: rgb(114, 122, 241);
+}
+.sign-up {
+    margin-left: 300px;
+    padding: 50px;
+    background-color: rgb(114, 241, 220);
+}
+input {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.btn-signup:hover {
+  background-color: rgb(114, 122, 241);
+  border-radius: 5px;
+}
+.btn-login:hover {
+    background-color: rgb(114, 241, 220);
+    border-radius: 5px;
+}
